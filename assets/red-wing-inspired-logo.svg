@@ -1,17 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 250" role="img" aria-labelledby="title desc">
-  <title id="title">Red Wing inspired logo</title>
-  <desc id="desc">Red wing icon and Red Wing text</desc>
-  <rect width="760" height="250" fill="none"/>
-  <g transform="translate(10,20)">
-    <g fill="#e3123f">
-      <path d="M40 168c-10-61 41-113 140-143 75-23 216-45 265-45 1 16-20 40-71 54-86 22-188 38-334 134z"/>
-      <path d="M55 174c73-57 157-85 260-106 62-13 129-16 132-7-3 20-35 44-88 57-85 20-204 29-304 56z"/>
-      <path d="M69 178c56-33 140-53 228-71 43-9 84-11 88-3-9 28-63 51-132 59-69 9-128 13-184 15z"/>
-      <path d="M71 198c44-13 89-22 130-23 32 0 56 5 62 13-13 25-45 41-85 45-48 5-82-8-107-35z"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 320" role="img" aria-labelledby="title desc">
+  <title id="title">Red Wing Shoes logo style mark</title>
+  <desc id="desc">A red wing emblem with stacked RED WING text and SHOES subtitle in black.</desc>
+  <rect width="980" height="320" fill="none"/>
+
+  <g transform="translate(24,42)">
+    <g fill="#c41230" stroke="#991126" stroke-width="2">
+      <path d="M14 170c52-86 178-136 342-157 23-3 43-5 58-6-13 30-40 58-83 77-74 34-197 50-317 86z"/>
+      <path d="M25 197c64-69 170-103 286-124 47-8 91-11 115-9-12 27-45 52-88 66-90 29-193 33-313 67z"/>
+      <path d="M40 219c72-43 163-63 248-79 39-7 70-9 87-7-12 24-44 42-86 52-76 19-163 19-249 34z"/>
+      <path d="M62 239c48-19 100-30 142-31 26 0 46 4 57 11-14 25-47 39-88 40-46 1-83-7-111-20z"/>
+      <path d="M79 264c36 5 79 0 111-12 15-6 27-14 31-22-19 4-43 8-65 8-34 1-59-4-77-12z"/>
     </g>
-    <g fill="#1a161a" transform="translate(312,26)">
-      <text x="0" y="78" font-family="Georgia, 'Times New Roman', serif" font-size="108" font-weight="700" letter-spacing="2">RED</text>
-      <text x="0" y="176" font-family="Georgia, 'Times New Roman', serif" font-size="108" font-weight="700" letter-spacing="2">WING</text>
+
+    <g transform="translate(390,4)" fill="#171717">
+      <text x="0" y="106" font-family="Georgia, 'Times New Roman', serif" font-size="132" font-weight="700" letter-spacing="2">RED</text>
+      <text x="0" y="223" font-family="Georgia, 'Times New Roman', serif" font-size="132" font-weight="700" letter-spacing="2">WING</text>
+      <text x="4" y="266" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" letter-spacing="16">SHOES</text>
     </g>
   </g>
 </svg>
